@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/Aana-Abdella">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full-Stack+Developer;Building+practical+products+with+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;Building+practical+products+with+code" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,9 +22,9 @@
 
 ## About Me
 
-I’m Aana Abdella, a software engineering student focused on building modern, reliable, and useful products. My work sits at the intersection of full-stack development, AI, and emerging web technologies.
+I’m Aana Abdella, a software engineer focused on building modern, reliable, and useful products. My work sits at the intersection of full-stack development, AI, and emerging web technologies.
 
-I enjoy turning ideas into practical software through clean architecture, thoughtful user experience, and strong engineering habits. My goal is to grow into a professional engineer who builds products that are not only functional, but also meaningful and maintainable.
+I enjoy turning ideas into practical software through clean architecture, thoughtful user experience, and strong engineering habits. I build products that are not only functional, but also meaningful and maintainable.
 
 Currently, I’m exploring:
 - Full-stack product development
