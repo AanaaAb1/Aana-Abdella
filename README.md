@@ -156,7 +156,7 @@ Feel free to reach out for collaboration, projects, or conversations about softw
 
 - Email: aanaabdella8@gmail.com
 - LinkedIn: linkedin.com/in/Aana_Abdella
-- Portfolio: your-portfolio.com
+- X: twitter.com/aana_abdella
 - GitHub: github.com/Aana-Abdella
 
 ---
