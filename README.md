@@ -1,11 +1,11 @@
 # Aana Abdella
 
 <p align="center">
-  <img src="https://github.com/Aana-Abdella.png" alt="Aana Abdella" width="180" style="border-radius:50%; border: 4px solid #0ea5e9;" />
+  <img src="https://avatars.githubusercontent.com/u/174483431?v=4" alt="Aana Abdella" width="180" style="border-radius:50%; border: 4px solid #0ea5e9;" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aana-Abdella&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AanaaAb1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
