@@ -154,8 +154,8 @@ In 2026, I aim to:
 
 Feel free to reach out for collaboration, projects, or conversations about software and technology.
 
-- Email: your.email@example.com
-- LinkedIn: linkedin.com/in/your-profile
+- Email: aanaabdella8@gmail.com
+- LinkedIn: linkedin.com/in/Aana_Abdella
 - Portfolio: your-portfolio.com
 - GitHub: github.com/Aana-Abdella
 
