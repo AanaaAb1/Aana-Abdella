@@ -1,7 +1,7 @@
 # Aana Abdella
 
 <p align="center">
-  <img src="./profile.jpg" alt="Aana Abdella" width="180" style="border-radius:50%;" />
+  <img src="https://github.com/Aana-Abdella.png" alt="Aana Abdella" width="180" style="border-radius:50%; border: 4px solid #0ea5e9;" />
 </p>
 
 <p align="center">
